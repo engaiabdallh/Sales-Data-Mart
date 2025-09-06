@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Advenure works ETL", "Advenure works ETL\Advenure works ETL.dtproj", "{5B4C7261-E0B7-6330-ED24-F2CBF5786A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Azure|Default = Azure|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B4C7261-E0B7-6330-ED24-F2CBF5786A97}.Azure|Default.ActiveCfg = Azure
+		{5B4C7261-E0B7-6330-ED24-F2CBF5786A97}.Azure|Default.Build.0 = Azure
+		{5B4C7261-E0B7-6330-ED24-F2CBF5786A97}.Development|Default.ActiveCfg = Development
+		{5B4C7261-E0B7-6330-ED24-F2CBF5786A97}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8263FE84-508C-493D-A845-E6DCB13CEE2E}
+	EndGlobalSection
+EndGlobal
